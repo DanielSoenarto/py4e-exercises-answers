@@ -1,0 +1,6 @@
+test ini adalah text
+X-DSPAM-Confidence: 0.8475
+baksdpjaspd
+X-DSPAM-Confidence: 0.9520
+dojhfsfd
+X-DSPAM-Confidence: 0.5489
